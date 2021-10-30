@@ -1,4 +1,4 @@
-# EndNoteUtil
+# EndNote Util
 Utilities to process EndNote exports 
 
 
